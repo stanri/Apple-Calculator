@@ -3,6 +3,8 @@
     padding: 1px; 
     width: 426px;
     height: 520px;
+    
+    /* below is the code for the gradient */
     background: rgb(221,221,221); /* Old browsers */
     background: -moz-linear-gradient(top,  rgba(221,221,221,1) 0%, rgba(173,173,173,1) 48%, rgba(174,174,174,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(221,221,221,1)), color-stop(48%,rgba(173,173,173,1)), color-stop(100%,rgba(174,174,174,1))); /* Chrome,Safari4+ */
